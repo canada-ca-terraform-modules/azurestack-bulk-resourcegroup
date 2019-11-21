@@ -1,0 +1,1 @@
+# azurestack-bulk-resourcegroup
